@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12-09-2022_D_Z_GAI_binarnoe_derevo", "12-09-2022_D_Z_GAI_binarnoe_derevo.vcxproj", "{DE5BAADB-4988-4AF6-ACE1-FBA3DC036305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5BAADB-4988-4AF6-ACE1-FBA3DC036305}.Debug|x64.ActiveCfg = Debug|x64
+		{DE5BAADB-4988-4AF6-ACE1-FBA3DC036305}.Debug|x64.Build.0 = Debug|x64
+		{DE5BAADB-4988-4AF6-ACE1-FBA3DC036305}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE5BAADB-4988-4AF6-ACE1-FBA3DC036305}.Debug|x86.Build.0 = Debug|Win32
+		{DE5BAADB-4988-4AF6-ACE1-FBA3DC036305}.Release|x64.ActiveCfg = Release|x64
+		{DE5BAADB-4988-4AF6-ACE1-FBA3DC036305}.Release|x64.Build.0 = Release|x64
+		{DE5BAADB-4988-4AF6-ACE1-FBA3DC036305}.Release|x86.ActiveCfg = Release|Win32
+		{DE5BAADB-4988-4AF6-ACE1-FBA3DC036305}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED6C16B-8D3F-4864-8DD7-A30DA1A5501E}
+	EndGlobalSection
+EndGlobal
